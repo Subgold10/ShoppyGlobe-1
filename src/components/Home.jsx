@@ -11,7 +11,7 @@ const Home = () => {
           <h1>Welcome to ShoppyGlobe</h1>
           <p>Discover amazing products from around the world</p>
           <p>SUBHA GOLDAR</p>
-          <a href="https://www.linkedin.com/in/subha-goldar-0000000000/"></a>
+          <p>https://github.com/Subgold10/ShoppyGlobe-1</p>
           <Link to="/products" className="hero-btn">
             Shop Now
           </Link>
